@@ -4,7 +4,7 @@ wget
 boto
 falcon==1.2.0
 gunicorn==19.7.1
-werkzeug==0.12.2
+werkzeug==0.15.3
 git+git://github.com/workforce-data-initiative/skills-utils.git
 
 # preprocessor related
